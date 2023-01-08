@@ -1,5 +1,5 @@
 # KASFIKIS_REKLEITIS_PROJECT_
-Στο repository αυτό, έχει ανέβει ένα  αρχείο zip με το ΄onoma Attica_fires(1).zip. Σε αυτό το αρχείο ανοίγουμε τον φάκελο Attica_fires.
+Στο repository αυτό, έχει ανέβει ένα  αρχείο zip με το όνομα Attica_fires(1).zip. Σε αυτό το αρχείο ανοίγουμε τον φάκελο Attica_fires.
 Ο  φάκελος Attica_fires περιέχει ότι σχετίζεται με την δημιουργία και παραγωγή του project.
 O φάκελος Attica_fires περιέχει 6 αρχεία. Από αυτά τα πρώτα πέντε σχετίζονται με το project.
 Ακολουθεί η επεξήγηση του περιεχομένου των φακέλων.
